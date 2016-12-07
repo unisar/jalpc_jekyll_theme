@@ -1,23 +1,22 @@
 # Welcome to Jekyll!
-
+ 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+title: "Usman"
+description: "Usman Nisar's blog"
+keywords: "usman,uga,computer,science,cs"
 baseurl: "/"
 url: "http://www.jack003.com"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'JiaKunUp'
-  head_img: 'static/img/landing/Jack.jpg'
-  desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
+  name: 'Usman'
+  first_name: 'Usman'
+  last_name: 'Nisar'
+  email: 'usman@uga.edu'
+  github_username: 'unisar'
+  head_img: 'static/img/landing/usman.png'
+  desc: 'I am a first-year PhD student in Computer Science at University of Georgia. My research interests are in Big Data Systems, Data Science, Machine Learning with a focus on Computer Vision.' 
 
 # sections
 sections:
@@ -51,57 +50,12 @@ sections:
     tpl: 'blog.html'
     css: 'testimonials navy-section'
 
-  - id: 'links'
-    i18n: 'nav.link'
-    name: 'Links'
-    tpl: 'links.html'
-    css: 'contact'
-
 # localization
 languages:
   - locale: 'en'
     flag: 'static/img/flags/United-States.png'
-  - locale: 'zh'
-    flag: 'static/img/flags/China.png'
 
 # blog img path
 img_path: 'http://www.jack003.com/static/img/blog'
 
-# donate
-donate:
-  wechat: 'static/img/pay/w1.jpeg'
-  # alipay: 'static/img/pay/alipay.png'
 
-# comment
-changyan:
-  # appid: cysfY7ULn
-  # conf: prod_861928934cecb7a18e15bedaed9dae29
-disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
-
-# share
-bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
-
-# baidu analytics
-ba:
-  # uuid: 317acca9ef9255b934e46371e471431d
-
-# google analytics
-ga:
-  id: UA-73784599-1
-
-# growingIO
-gio:
-  id: a49d4901c7853da9
-
-# Build settings
-encoding: "utf-8"
-
-# other settings
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge

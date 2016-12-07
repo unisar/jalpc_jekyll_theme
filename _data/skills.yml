@@ -1,20 +1,18 @@
-- name: Python
-  percentage: 85
-
-- name: HTML/CSS
-  percentage: 65
-
-- name: Linux/Shell
-  percentage: 75
-
-- name: jQuery
-  percentage: 85
-
-- name: AngularJS
+- name: C/C++
   percentage: 80
 
-- name: Ionic
+- name: Java
   percentage: 70
 
-- name: Vuejs
+- name: C#
+  percentage: 75
+
+- name: Linux/Shell
+  percentage: 70
+
+- name: Scala
   percentage: 65
+
+- name: Python
+  percentage: 40
+
